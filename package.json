@@ -1,0 +1,11 @@
+{
+  "name": "tera-discord-chat",
+  "version": "0.0.1",
+  "description": "tera-proxy module to read and send Discord messages from in game.",
+  "main": "index.js",
+  "author": "meishu",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^2.0.3"
+  }
+}
